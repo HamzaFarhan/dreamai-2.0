@@ -81,7 +81,7 @@ protobuf==3.11.3
 protobuf3-to-dict==0.1.5
 ptyprocess==0.6.0
 pycodestyle==2.5.0
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pyparsing==2.4.6
 PyQt5==5.12.3
